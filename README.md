@@ -55,5 +55,7 @@ Your team will have until 1:00 Eastern to build the best model possible under th
 
 The task is to predict if a person's income is in excess of $50,000 given certain profile information, and more specifically to generate predicted probabilities of income being **above** $50,000 for each row in the test set. This will simply be a csv with a single column of the probability  **_with 'wage' as a header_**. 
 
+Each team will only need to submit one repository to our google classroom.
+
 
 Good luck!

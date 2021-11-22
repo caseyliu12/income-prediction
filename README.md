@@ -39,7 +39,7 @@ You will be given a dataset and teams will be randomly assigned to one constrain
 - Your choice of features
 - Your choice of samples
 
-Your team will have until 5:00 Eastern / 4:00 Central (East Coast) or 5:00 Mountain / 4:00 Pacific (West Coast) to build the best model possible under those constraints.
+Your team will have until 1:00 Eastern to build the best model possible under those constraints.
 
 # ![](https://media.giphy.com/media/aL4bDxt8fbpy8/giphy.gif)
 

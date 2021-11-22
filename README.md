@@ -34,8 +34,13 @@ You will be given a dataset and teams will be randomly assigned to one constrain
 - **Limited to a maximum of 20 features**
 - Your choice of samples
 
-### Team Algorithm Constraint
-- **Must use a Random Forest**
+### Team Algorithm Constraint I
+- **Must use Random Forest**
+- Your choice of features
+- Your choice of samples
+
+### Team Algorithm Constraint II
+- **Must use AdaBoost**
 - Your choice of features
 - Your choice of samples
 
